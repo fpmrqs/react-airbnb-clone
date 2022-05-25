@@ -1,4 +1,4 @@
-# React Business Card
+# React Airbnb Clone
 ### React couse - Project 3
 
 This is the third of a series of small projects I'm building to learn React. React Airbnb Clone is an interface built using React components and very simple CSS style.
